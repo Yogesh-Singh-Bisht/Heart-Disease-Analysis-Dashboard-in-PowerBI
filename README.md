@@ -2,6 +2,7 @@
 # 🫀 Heart Disease Analysis Dashboard – Power BI
 
 An interactive **Power BI Dashboard** that analyzes and visualizes Heart disease patient data, providing insights into survival rates, age-related trends, and critical health risk factors. 
+## 📸 Dashboard Preview
 
 <img width="1337" height="745" alt="Snapshot_Heart_Disease" src="https://github.com/user-attachments/assets/2adaca66-c918-4a19-abf5-f92b430d57a7" />
 
@@ -34,4 +35,19 @@ The dashboard helps researchers, health professionals, and analysts identify **p
 
 - **Tool:** Microsoft Power BI  
 - **Data Processing:** Power Query  
-- **Visuals Used:** KPI Cards, Line Chart, Ribbon Chart, Column Charts, and Slicers  
+- **Visuals Used:** KPI Cards, Line Chart, Ribbon Chart, Column Charts, and Slicers
+
+## 🚀 How to Use
+
+1️⃣ Download the `.pbix` file from this repo.  
+2️⃣ Open it in **Power BI Desktop**.  
+3️⃣ Explore the dashboard with slicers and charts to gain insights.
+
+## 👨‍💻 Author
+
+**Yogesh Bisht**  
+📌 *Data Enthusiast | Power BI Learner | Dashboard Creator*
+
+### 🌟 *If you like this project, don’t forget to ⭐ the repo!*
+
+
